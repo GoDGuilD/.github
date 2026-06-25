@@ -1,2 +1,0 @@
-# .github
-GoDGuilD Readme Repo
